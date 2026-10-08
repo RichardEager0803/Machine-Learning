@@ -1,2 +1,0 @@
-# %% [markdown]
-# # Air Quality Analysis
